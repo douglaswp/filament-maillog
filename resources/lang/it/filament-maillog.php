@@ -25,4 +25,8 @@ return [
     'column.data' => 'Dati',
     'column.created_at' => 'Creato il',
     'column.updated_at' => 'Modificato il',
+
+    'filters.status' => 'Status',
+    'filters.created_from' => 'Creato da',
+    'filters.created_until' => 'Creato fino a',
 ];

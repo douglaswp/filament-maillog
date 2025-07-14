@@ -142,11 +142,14 @@ class MailLogResource extends Resource
             ])
             ->filters([
                 SelectFilter::make('status')
+                    ->label(trans('filament-maillog::filament-maillog.filters.status'))
                     ->options(MailLog::distinct('status')->pluck('status', 'status')->filter()->toArray()),
                 Filter::make('created_at')
                     ->form([
-                        Forms\Components\DatePicker::make('created_from'),
-                        Forms\Components\DatePicker::make('created_until'),
+                        Forms\Components\DatePicker::make('created_from')
+                            ->label(trans('filament-maillog::filament-maillog.filters.created_from')),
+                        Forms\Components\DatePicker::make('created_until')
+                            ->label(trans('filament-maillog::filament-maillog.filters.created_until')),
                     ])
                     ->query(function (Builder $query, array $data): Builder {
                         return $query
