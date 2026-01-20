@@ -2,6 +2,21 @@
 
 All notable changes to `filament-maillog` will be documented in this file.
 
+## v2.0.2 - 2026-01-20
+
+### What's Changed
+
+* Update README Filament 4 by @andreia in https://github.com/TappNetwork/filament-maillog/pull/19
+* Bump aglipanci/laravel-pint-action from 2.5 to 2.6 by @dependabot[bot] in https://github.com/TappNetwork/filament-maillog/pull/20
+* Bump stefanzweifel/git-auto-commit-action from 5 to 7 by @dependabot[bot] in https://github.com/TappNetwork/filament-maillog/pull/22
+* Bump actions/checkout from 4 to 6 by @dependabot[bot] in https://github.com/TappNetwork/filament-maillog/pull/23
+* 2.x by @swilla in https://github.com/TappNetwork/filament-maillog/pull/25
+* Bump dependabot/fetch-metadata from 2.4.0 to 2.5.0 by @dependabot[bot] in https://github.com/TappNetwork/filament-maillog/pull/26
+* Updates for default branch by @andreia in https://github.com/TappNetwork/filament-maillog/pull/28
+* Filament5 upgrade by @andreia in https://github.com/TappNetwork/filament-maillog/pull/30
+
+**Full Changelog**: https://github.com/TappNetwork/filament-maillog/compare/v2.0.1...v2.0.2
+
 ## v2.0.1 - 2025-12-17
 
 ### What's Changed
