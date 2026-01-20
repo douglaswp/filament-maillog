@@ -11,8 +11,8 @@ This plugin adds an event listener to log emails sent on `mail_logs` database ta
 
 | Filament | Filament MailLog | Documentation
 :---------|:-----------------|:--------------
-| 4.x      | 2.x              | Current
-| 3.x      | 1.x              | [Check the docs](https://github.com/TappNetwork/filament-maillog/tree/1.x)
+| 4.x/5.x | 2.x              | Current
+| 3.x     | 1.x              | [Check the docs](https://github.com/TappNetwork/filament-maillog/tree/1.x)
 
 ## Installation
 
