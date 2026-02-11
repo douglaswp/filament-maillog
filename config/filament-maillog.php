@@ -8,7 +8,7 @@ return [
     ],
 
     'resources' => [
-        'MaiLogResource' => MailLogResource::class,
+        'MailLogResource' => MailLogResource::class,
     ],
 
     'navigation' => [
