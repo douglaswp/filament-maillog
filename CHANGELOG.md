@@ -2,6 +2,14 @@
 
 All notable changes to `filament-maillog` will be documented in this file.
 
+## v2.0.3 - 2026-02-12
+
+### What's Changed
+
+* Fix typo in MailLogResource configuration by @swilla in https://github.com/TappNetwork/filament-maillog/pull/31
+
+**Full Changelog**: https://github.com/TappNetwork/filament-maillog/compare/v2.0.2...v2.0.3
+
 ## v2.0.2 - 2026-01-20
 
 ### What's Changed
