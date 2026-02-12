@@ -44,7 +44,7 @@ return [
     ],
 
     'resources' => [
-        'MaiLogResource' => \Tapp\FilamentMailLog\Resources\MailLogResource::class,
+        'MailLogResource' => \Tapp\FilamentMailLog\Resources\MailLogResource::class,
     ],
 
     'navigation' => [
