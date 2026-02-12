@@ -25,7 +25,7 @@ jobs:
         uses: ramsey/composer-install@v3
 
       - name: Install optional Filament dependency
-        run: composer require filament/filament:^4.0 --no-interaction
+        run: composer require filament/filament --no-interaction
 
       - name: Run PHPStan
         run: ./vendor/bin/phpstan --error-format=github
